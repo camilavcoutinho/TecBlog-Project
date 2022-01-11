@@ -1,0 +1,11 @@
+/* Cleaning default formatting */
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-size: 1em;
+    font-family: "Tebuchet MS", Helvetica, sans-serif;
+    background: #e6e6e6;
+}
